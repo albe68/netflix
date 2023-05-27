@@ -1,0 +1,18 @@
+.banner{
+    background-image:url() ;
+    background-size: cover;
+    height: 500px;
+    color: white;
+
+}
+.content{
+    padding: 140px;
+    height: 190px;
+
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
